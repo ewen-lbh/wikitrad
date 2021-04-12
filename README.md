@@ -2,7 +2,7 @@
 
 ## Installation
 
-_wikitrad_ is available on [PyPI](https://pypi.org):
+_wikitrad_ is available [on PyPI](https://pypi.org/project/wikitrad):
 
 ```
 pip install wikitrad
