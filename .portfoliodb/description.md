@@ -1,6 +1,6 @@
 ---
 using: [python]
-tags: [automation, programming, cli]
+tags: [automation, program, cli]
 wip: no
 ---
 
