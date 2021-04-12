@@ -8,9 +8,10 @@ wip: no
 
 :: fr
 
-Parfois, un nom propre, un terme technique échappe aux algorithmes de [google traduction](https://translate.google.com) ou [deepl](https://deepl.com).
+Parfois, un nom propre, un terme technique échappe aux algorithmes de [Google Traduction](https://translate.google.com) ou [DeepL](https://deepl.com).
 
 J'ai trouvé un autre moyen de traduires ces termes: Wikipédia.
+
 Des millions d'articles dans des centaines de langues, avec un lien pour changer celle-ci sur chaque page.
 
 J'ai donc créer ce petit outil pour automatiser la tâche: chercher un article dans la langue source, récupérer le lien vers ce même article dans la langue cible, et enfin récupérer le titre du nouvel article.
@@ -19,7 +20,7 @@ Il utilise aussi [langdetect](https://pypi.org/project/langdetect) pour détecte
 
 :: en
 
-Sometimes, a proper noun or a technical term fails to be translated using [google translate](https://translate.google.com) or [deepl](https://deepl.com).
+Sometimes, a proper noun or a technical term fails to be translated using [Google Translate](https://translate.google.com) or [DeepL](https://deepl.com).
 
 I found another way to translate those terms: Wikipedia.
 
