@@ -4,7 +4,7 @@
 
 _wikitrad_ is available [on PyPI](https://pypi.org/project/wikitrad):
 
-```
+```sh
 pip install wikitrad
 ```
 
@@ -12,7 +12,7 @@ pip install wikitrad
 
 Arch users can install it from [the AUR](https://aur.archlinux.org/packages/wikitrad)
 
-```
+```sh
 paru wikitrad # or any AUR helper
 ```
 
@@ -24,12 +24,12 @@ Language codes refer to the language codes used by wikipedia: `en` for `en.wikip
 
 ### Without specifying the source language
 
-```
+```sh
 wikitrad "word to translate" target_language_code
 ```
 ### specifying the source language
 
-```
+```sh
 wikitrad source_language_code "word to translate" target_language_code
 ```
 
