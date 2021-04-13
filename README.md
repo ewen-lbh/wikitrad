@@ -1,5 +1,7 @@
 # wikitrad
 
+![demo](./demo.gif)
+
 ## Installation
 
 _wikitrad_ is available [on PyPI](https://pypi.org/project/wikitrad):
