@@ -18,6 +18,8 @@ J'ai donc créer ce petit outil pour automatiser la tâche: chercher un article 
 
 Il utilise aussi [langdetect](https://pypi.org/project/langdetect) pour détecter la langue source, si celle-ci n'est pas explicitement donnée.
 
+[Code source](https://github.com/ewen-lbh/wikitrad)
+
 :: en
 
 Sometimes, a proper noun or a technical term fails to be translated using [Google Translate](https://translate.google.com) or [DeepL](https://deepl.com).
@@ -30,5 +32,5 @@ I therfore created this little command-line program to automate the task: look f
 
 I also used [langdetect](https://pypi.org/project/langdetect) to determine the source language, in case it isn't provided by the user.
 
-
+[Source code](https://github.com/ewen-lbh/wikitrad)
 
