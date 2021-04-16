@@ -1,7 +1,7 @@
 ---
 using: [python]
 tags: [automation, program, cli]
-wip: no
+created: 2021-04-14
 ---
 
 # wikitrad
