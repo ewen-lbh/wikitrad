@@ -156,3 +156,4 @@ Thumbs.db
 # Environment variables
 .env
 AUR/
+wikitrad/__pycache__
