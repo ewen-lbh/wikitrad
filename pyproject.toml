@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "wikitrad"
 version = "0.2.0"
-description = ""
+description = "Translate terms from the command line using Wikipedia"
 license = "GPL"
 authors = ["Ewen Le Bihan <hey@ewen.works>"]
 readme = "README.md"
